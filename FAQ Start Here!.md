@@ -31,6 +31,10 @@
 
 This means that we are graded soley on our discussion within D2L. I would reccomend using this as an area to work on the outline and formulate our ideas as a group, then post them to D2L as is appropriate. It is likely our professor will see this though **we cannot assume he has the time to dig through our scribbles on here as well as D2L**. If this were the in-class instead of online class, this would be the table discussion and D2L is final drafted paper (don't forget the audio log!).
   
+**How do I rdit a file?**
+  
+  Simply find the file in the directory and click the pencil in the upper right corner. I'd reccomend setting the window to "softwrap" so its easier to read, and don't forget to preview your edit too. GitHub conveniently highlights changes on the left using red to denote omitted info, yellow for changed/edited format blocks, and green for new/added info. Neat!
+
 **How do I Bold/Italicize/Strikethrough/List?**
 
   All of these are easily done using standard Markdown as well as "Flavored Markdown". If your used to editing text like this Markdown will be familiar, though they add some functionality with their specific Flavored Markdown that may be useful to you. These links helped me immensely:
@@ -39,7 +43,10 @@ This means that we are graded soley on our discussion within D2L. I would reccom
   * https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 
 **How do I add a file/folder?**
-  To start, since we will all essentially be able to edit the main repository I'd ask that you please edit/add things only within your groups folders. If this folder does not exist, feel free to create one, though try to keep the format organized by M
+  To start, since we will all essentially be able to edit the main repository I'd ask that you please edit/add things only within your groups folders. If this folder does not exist, feel free to create one, though try to keep it within the preconcieved structure. By organizing it under modules then groups I thought we could easily share relevant links between groups within the modules folders, then collaborate accordingly within the group folder. If you have a better idea for organizing let me know!
+  
+  
+  
   
 ##**_Terms_**
 
