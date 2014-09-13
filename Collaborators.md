@@ -1,5 +1,5 @@
 GlobalPolitics
 ==============
-Create a Fork of this document and Add your name! The only way I can add you to the project is to do so manually, otherwise you can just create a fork of the outline within your group and edit that. By being added as a collaborator you should be able to edit the doc directly, but I'm not certain.
+Feel free to edit this! If you don't want to use your full name just use your last initial. This is only to make it easier for groups to collaborate and for the instructor to see who is doing what IF he chooses to use this as a resource.
 
 Jake Arseneau (ThatGuyinYourOnlineClass)
