@@ -2,6 +2,11 @@
 
   This site was originally intended for use on collaborating on group coding projects, the format is a little obtuse if your not used to it, but once you get the hang of it there are a lot of cool features that should help in working together for this outline. I'll go into detail towards the end, though not necessary I think it helps to understand the original purpose of this site as it give insight into the more nuanced features. I am learning as I go, so if anyone else has any experience or suggestions voice them out!
   
+ 
+  **PLEASE NOTE:**
+
+  This is a public repository, by posting any personal information you must acknowledge this. There is a list labeled Collaborators.md where you can put your username and real name if you wish, you do not need to do this if you are not comfortable with it, or you can just use a first name and last inital. The idea behind it is to give the instructer an idea of who is collaborating IF he decides to use this as a resource.
+  
 **What are the perks of using GitHub?**
 
   * One can easily make a copy of this repository to edit without changing the original
@@ -31,7 +36,7 @@
 
 This means that we are graded soley on our discussion within D2L. I would reccomend using this as an area to work on the outline and formulate our ideas as a group, then post them to D2L as is appropriate. It is likely our professor will see this though **we cannot assume he has the time to dig through our scribbles on here as well as D2L**. If this were the in-class instead of online class, this would be the table discussion and D2L is final drafted paper (don't forget the audio log!).
   
-**How do I rdit a file?**
+**How do I edit a file?**
   
   Simply find the file in the directory and click the pencil in the upper right corner. I'd reccomend setting the window to "softwrap" so its easier to read, and don't forget to preview your edit too. GitHub conveniently highlights changes on the left using red to denote omitted info, yellow for changed/edited format blocks, and green for new/added info. Neat!
 
@@ -43,7 +48,12 @@ This means that we are graded soley on our discussion within D2L. I would reccom
   * https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 
 **How do I add a file/folder?**
-  To start, since we will all essentially be able to edit the main repository I'd ask that you please edit/add things only within your groups folders. If this folder does not exist, feel free to create one, though try to keep it within the preconcieved structure. By organizing it under modules then groups I thought we could easily share relevant links between groups within the modules folders, then collaborate accordingly within the group folder. If you have a better idea for organizing let me know!
+
+  To add a folder or start a new file, click the "**+**" icon above the repository. A text box should appear, if you are making a folder simply type the name you wish to give it and type "**/**". The text box should appear within the folder you just created (backspacing will delete this, careful when editing others folders!). 
+  
+  To make file, give it a name in the text file (eg Example.md) and type something into the box below. A folder cannot exist in GitHub without someting in it, so if you are just trying to create a folder tree for structure just type some mumbojumbo in the bottom text box.
+  
+  Since we will all essentially be able to edit the main repository I'd ask that you please edit/add things only within your groups folders. If this folder does not exist, feel free to create one, though try to keep it within the preconcieved structure. By organizing it under modules then groups I thought we could easily share relevant links between groups within the modules folders, then collaborate accordingly within the group folder. If you have a better idea for organizing let me know!
   
   
   
