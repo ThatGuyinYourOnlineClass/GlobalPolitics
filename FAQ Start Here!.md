@@ -15,11 +15,13 @@
   * To give everyone access is a bit contrived, but once I make you a collaborator you can add other people too
   * Understanding the UI takes some time, and I will update pictures as I can to illustrate some questions in the FAQ
   * If a group member is not in on the discussion then they will be left out :( if you decide to use this for your group please do everything you can to inform your team!
-  
+  * Not officially supported by the class, don't post your final discussions here and expect class credit! USE D2L!
+    * I will contact our instructor about getting a link on the homepage linking here
 
 **How can I collaborate with my group here?**
 
-  All you have to do is make an account, and let me know your username so I can add you as a collaborator. It also helps if your group is in on it too, so if you decide to use this it would be benificial to spread the word to the others in your group.
+  All you have to do is make an account, and let me know your username so I can add you as a collaborator. Once you are a collaborator you can add anyone by clicking on the _settings_ tab on the right, then selecting _Collaborators_ on the left. There you should see a space to add someones name as a collaborator. It also helps if your group is in on it too, so if you decide to use this it would be benificial to spread the word to the others in your group. I'll try and check back frequently for any requests, but if you wish to begin editing right away shoot me a text and I'll add you ASAP
+>Contact Info: Jake Arseneau (920) 323-7571
   
 **Will this count towards class participation?**
 
@@ -29,7 +31,15 @@
 
 This means that we are graded soley on our discussion within D2L. I would reccomend using this as an area to work on the outline and formulate our ideas as a group, then post them to D2L as is appropriate. It is likely our professor will see this though **we cannot assume he has the time to dig through our scribbles on here as well as D2L**. If this were the in-class instead of online class, this would be the table discussion and D2L is final drafted paper (don't forget the audio log!).
   
+**How do I Bold/Italicize/Strikethrough/List?**
 
+  All of these are easily done using standard Markdown as well as "Flavored Markdown". If your used to editing text like this Markdown will be familiar, though they add some functionality with their specific Flavored Markdown that may be useful to you. These links helped me immensely:
+  * https://help.github.com/articles/markdown-basics
+  * https://help.github.com/articles/github-flavored-markdown
+  * https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+
+**How do I add a file/folder?**
+  To start, since we will all essentially be able to edit the main repository I'd ask that you please edit/add things only within your groups folders. If this folder does not exist, feel free to create one, though try to keep the format organized by M
   
 ##**_Terms_**
 
